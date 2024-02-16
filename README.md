@@ -1,6 +1,6 @@
 Olá! Sejam Bem-Vindos ao meu perfil! 
 <br>
-Meu nome é Taila, possuo 18 anos e sou estudante de Sistemas de Informação na Universidade Feevale, em Novo Hamburgo.
+Meu nome é Taila, possuo 18 anos e sou estudante de Sistemas de Informação na Universidade Feevale.
 <br>
 Tenho conhecimentos básicos de Java (minha linguagem principal), python, PostegreSQL, HTML e CSS.
 <br>
